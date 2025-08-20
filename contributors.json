@@ -171,8 +171,17 @@
     "image": "./images/christina_pic.jpg",
     "description": "CSE student with a passion for tech.",
     "college": "St. Joseph's College of Engineering and Technology, Palai"
+  },
+  {
+    "name": "Joshil S Abraham",
+    "current_position": "B.Tech in Computer Science and Engineering",
+    "github": "https://github.com/joshilsabraham",
+    "linkedin": "https://www.linkedin.com/in/joshil-s-abraham",
+    "image": "./images/joshilsabraham.jpeg",
+    "description": "2nd Year CSE Student",
+    "college": "St. Joseph's College of Engineering and Technology, Palai"
   }
-
-
+  
 ]
+
 
